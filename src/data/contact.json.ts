@@ -11,9 +11,9 @@ const one: Template = {
 };
 
 const three: Template = {
-  link: "https://read.cv/naumovp",
-  type: "Read CV",
-  title: "naumovp",
+  link: "https://github.com/pavelnaumov",
+  type: "GitHub",
+  title: "pavelnaumov",
 };
 
 export const bytype = {
